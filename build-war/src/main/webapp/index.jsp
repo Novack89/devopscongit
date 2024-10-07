@@ -1,6 +1,6 @@
 <%@page import="org.nirkoren.maven.demo.HelloHandler"%>
 <html>
-<body style="background-color:rgb(115, 41, 185) ; font-family: 'Courier New', Courier, monospace;">
+<body style="background-color:rgb(41, 123, 185) ; font-family: 'Courier New', Courier, monospace;">
 	<h2>Welcome to DevOpsCon Demo repo</h2>
 	CI/CD Workshop, Maven / Tomcat WAR example<P>
 	<%
